@@ -1,3 +1,4 @@
+-- Name: items; Type: TABLE; Schema: public; Owner: postgres
 CREATE TRIGGER decrease_quantity_trigger
 AFTER INSERT ON orders
 FOR EACH ROW
