@@ -1,0 +1,2 @@
+// a script to match the data in the database with the data in the file
+db.school.find({ name: "Holberton School" });
