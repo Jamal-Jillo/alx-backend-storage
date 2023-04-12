@@ -1,2 +1,2 @@
 // lists all documents starting with "Holberton" in the school colelction
-db.schools.find({ name: /^Holberton/ });
+db.school.find({name: /Holberton.*/}).forEach(printjson);
