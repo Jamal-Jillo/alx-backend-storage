@@ -1,4 +1,4 @@
 // a script to insert a document into a collection
 db.insertOne({
-    name: "Holberton School"
+    name: "Holberton school"
 })
