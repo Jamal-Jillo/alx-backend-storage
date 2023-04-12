@@ -1,0 +1,2 @@
+// uses or creates a MOngoDB database.
+use my_db;
